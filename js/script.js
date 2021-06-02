@@ -6,8 +6,8 @@
 
 "use strict"
 
-const number = Math.floor(Math.random() * 10) + 1
-//console.log(number)
+const number = Math.floor(Math.random() * 6 ) + 1
+console.log(number)
   
 function addAgeClicked () {
   // this function shows a random number 
